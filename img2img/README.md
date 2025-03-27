@@ -30,7 +30,7 @@ MarkDown 내용 정리
 Click [My Git Hub](https://github.com/vbv963/AI_Project_2025_01)
 
 <!-- Image -->
-![image]
+![image](https://i.pinimg.com/736x/52/6a/88/526a880874aefc28e4378e64e11e4820.jpg)
 
 <!-- Table -->
 
